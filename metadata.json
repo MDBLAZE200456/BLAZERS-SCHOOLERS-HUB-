@@ -1,0 +1,6 @@
+{
+  "name": "BLAZERS SCHOLER HUB",
+  "description": "Learn C, Java, Python, AI/ML, and Discrete Math with code playgrounds and practice quizzes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
